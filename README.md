@@ -1,2 +1,4 @@
-# clipboad2paste
+﻿# clipboad2paste
 クリップボードの内容をキーボード入力として貼り付ける
+
+あは
